@@ -15,5 +15,9 @@ pod 'Firebase/Firestore'
 pod 'Firebase/Messaging'
 
 
+# add the Firebase pod for Google Analytics
+pod 'Firebase/Analytics'
+
+
 
 end
